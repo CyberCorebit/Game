@@ -15,3 +15,4 @@ Bên cạnh Boss Rush, game có các chế độ quen thuộc:
 Nhạc nền riêng cho từng boss và hiệu ứng âm thanh cho các pha xóa hàng, combo, Tetris hay hạ boss tạo điểm nhấn cho mỗi trận đấu. Bảng thành tích và thống kê giúp người chơi theo dõi kết quả, cải thiện kỹ năng và thử vượt qua kỷ lục của mình.
 
 **Xếp khối, hoàn thành thử thách và sống sót qua trận chiến cuối cùng.**
+https://www.youtube.com/watch?v=QL7vMsUXU4s link demo gameplay
